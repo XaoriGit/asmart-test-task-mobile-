@@ -1,6 +1,5 @@
-package com.example.asmart_test.ui.theme
+package com.example.asmart_test.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
